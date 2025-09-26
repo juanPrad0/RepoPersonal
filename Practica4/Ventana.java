@@ -1,4 +1,6 @@
+package Practica4;
 import javax.swing.*;
+
 import java.awt.event.*;
 
 public class Ventana extends JFrame {

@@ -1,3 +1,4 @@
+package Practica4;
 public class Mensajes {
     public String mensajeDistancia() {
         return "Distancia:";

@@ -1,3 +1,4 @@
+package Practica4;
 public class Punto {
     int x = 1, y = 1;
 
